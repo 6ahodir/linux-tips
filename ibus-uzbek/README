@@ -1,0 +1,7 @@
+How to add the Uzbek (cyrillic) input method to iBus.
+
+1. Install 'ibus' and 'ibus-m17' packages.
+2. Copy the 'uz-kbd.mim' file to '/usr/share/m17n/'
+3. Copy the 'uz-kbd.png' file to '/usr/share/m17n/icons'
+4. Restart iBus
+5. Add 'Uzbek' to the list of input method from the iBus preferences.
